@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="uft-8">
+	<link rel="stylesheet"  href="styles.css">
+</head>
+<body>
+	<h1>OUR MENU</h1>
+	<div class="row">
+		<section class="col-lg-4 col-md-4 col-sm-12">
+			<h3 class="Title">CHICKEN</h3>
+			<p class="Paragraph">
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nibh sed varius eleifend. Suspendisse non mollis arcu. Morbi tortor diam, ornare tempor condimentum sed, bibendum ut magna. Ut blandit leo ut elit tincidunt, id ultricies magna laoreet. Donec imperdiet mauris et dui facilisis mattis. Suspendisse laoreet pretium nisi vel congue. Fusce tristique ante eu augue sollicitudin aliquet. Integer blandit tempor feugiat. Aliquam convallis diam orci, ac lacinia dui ultrices nec. Aenean tempus leo sed dolor tristique, eu commodo purus aliquet. Nulla vulputate tellus venenatis fermentum dignissim. Maecenas suscipit nibh augue, in volutpat nulla tincidunt a. Sed vel tempus nisi. Donec ultrices nibh nec nisi tincidunt, tristique ullamcorper mauris iaculis.
+			</p>
+		</section>
+		<section class="col-lg-4 col-md-4 col-sm-12">
+			<h3 class="Title">BEEF</h3>
+			<p class="Paragraph">
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nibh sed varius eleifend. Suspendisse non mollis arcu. Morbi tortor diam, ornare tempor condimentum sed, bibendum ut magna. Ut blandit leo ut elit tincidunt, id ultricies magna laoreet. Donec imperdiet mauris et dui facilisis mattis. Suspendisse laoreet pretium nisi vel congue. Fusce tristique ante eu augue sollicitudin aliquet. Integer blandit tempor feugiat. Aliquam convallis diam orci, ac lacinia dui ultrices nec. Aenean tempus leo sed dolor tristique, eu commodo purus aliquet. Nulla vulputate tellus venenatis fermentum dignissim. Maecenas suscipit nibh augue, in volutpat nulla tincidunt a. Sed vel tempus nisi. Donec ultrices nibh nec nisi tincidunt, tristique ullamcorper mauris iaculis.
+			</p>
+		</section>
+
+<section class="col-lg-3 col-md-12 col-sm-12">
+	<h3 class="Title">SUSHI</h3>
+		<p class="Paragraph">lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nibh sed varius eleifend. Suspendisse non mollis arcu. Morbi tortor diam, ornare tempor condimentum sed, bibendum ut magna. Ut blandit leo ut elit tincidunt, id ultricies magna laoreet. Donec imperdiet mauris et dui facilisis mattis. Suspendisse laoreet pretium nisi vel congue. Fusce tristique ante eu augue sollicitudin aliquet. Integer blandit tempor feugiat. Aliquam convallis diam orci, ac lacinia dui ultrices nec. Aenean tempus leo sed dolor tristique, eu commodo purus aliquet. Nulla vulputate tellus venenatis fermentum dignissim. Maecenas suscipit nibh augue, in volutpat nulla tincidunt a. Sed vel tempus nisi. Donec ultrices nibh nec nisi tincidunt, tristique ullamcorper mauris iaculis.
+		</p>
+	</section>
+</div>
+
+</body>
+</html>
